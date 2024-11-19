@@ -1,4 +1,6 @@
 speechrecognition
+pyfiglet
+deep-translator
 vosk
 argos-translate
 google-generativeai
