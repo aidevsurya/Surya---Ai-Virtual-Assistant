@@ -1,8 +1,0 @@
-speechrecognition
-pyfiglet
-deep-translator
-vosk
-argos-translate
-google-generativeai
-pyttsx3
-pyaudio
