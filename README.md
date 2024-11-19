@@ -10,4 +10,7 @@
 <b>Run Using this command -</b> python main.py
 
 <h1>Demo Video</h1>
-<video src="https://github.com/aidevsurya/Surya---Ai-Virtual-Assistant/raw/refs/heads/main/VID_20241110230408.mp4"></video>
+<video width="320" height="240" controls>
+  <source src="https://github.com/aidevsurya/Surya---Ai-Virtual-Assistant/raw/refs/heads/main/VID_20241110230408.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
